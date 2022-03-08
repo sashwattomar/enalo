@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/enalo/static/css/main.188ae83a.css",
+    "main.js": "/enalo/static/js/main.9c5bef2e.js",
+    "index.html": "/enalo/index.html",
+    "main.188ae83a.css.map": "/enalo/static/css/main.188ae83a.css.map",
+    "main.9c5bef2e.js.map": "/enalo/static/js/main.9c5bef2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.188ae83a.css",
+    "static/js/main.9c5bef2e.js"
+  ]
+}
